@@ -85,12 +85,19 @@ Skills Demonstrated
 
 Installation
 ------------
-
-`   git clone https://github.com/Rohit-Singh-0/Sentiment-Analysis-of-Restaurant-Reviews.git  cd Sentiment-Analysis-of-Restaurant-Reviews  python -m venv venv  source venv/bin/activate   # Linux/Mac  # venv\Scripts\activate    # Windows  pip install -r requirements.txt  jupyter notebook Restaurant_Reviews_NLP.ipynb   `
+```
+git clone https://github.com/Rohit-Singh-0/Sentiment-Analysis-of-Restaurant-Reviews.git 
+cd Sentiment-Analysis-of-Restaurant-Reviews 
+python -m venv venv  source venv/bin/activate   # Linux/Mac  
+# venv\Scripts\activate    # Windows  
+pip install -r requirements.txt  
+jupyter notebook Restaurant_Reviews_NLP.ipynb
+```
 
 If requirements.txt is missing, install manually:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install numpy pandas matplotlib scikit-learn nltk   `
+``` 
+pip install numpy pandas matplotlib scikit-learn nltk   
+```
 
 Next Steps
 ----------
